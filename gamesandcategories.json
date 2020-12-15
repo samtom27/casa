@@ -1,0 +1,350 @@
+{
+  "games": [
+    {
+      "id": "5fbf9189edc417249c90e2e3",
+      "gameCode": "rol_brazilianrol",
+      "urlType": "vegas_native_LIVE_REAL",
+      "verticalThumbnailId": "5fbfaa6aedc417249c90e32a",
+      "gameInfoThumbnailId": "5fbfaa75edc417249c90e33e",
+      "name": "Roleta Brasileira",
+      "description": "Acum ai experiența unui casino real oriunde te-ai afla! Fie că preferi Live Roulette sau Live French Roulette, la mesele noastre te vor aștepta întotdeauna zâmbetele amabile ale dealerilor noștri profesioniști!",
+      "nativeGame": false,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5fbf9525edc417249c90e300",
+      "gameCode": "bjl_sohobj1",
+      "urlType": "vegas_native_LIVE_REAL",
+      "verticalThumbnailId": "5fbfac2aedc417249c90e364",
+      "gameInfoThumbnailId": "5fbfac43edc417249c90e376",
+      "name": "Soho Blackjack",
+      "description": "Poți face față provocării? Joci prudent sau agresiv? HIT sau STOP? Totul se schimbă atunci când ești față în față cu dealerul! Joacă exact ca într-un casino real și bucură-te de pariurile secundare \"PERECHE JUCĂTOR\" și \"21+3\" cu payout de până la 100:1 sau câștigă pe mâna unui alt jucător cu opțiunea \"PARIU DIN SPATE\".",
+      "nativeGame": false,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5f90357c0762bd186c83468f",
+      "gameCode": "gpas_extrfruits_pop",
+      "urlType": "vegas_native_GPAS_REAL",
+      "verticalThumbnailId": "5f90356e0762bd186c83467c",
+      "gameInfoThumbnailId": "5f9035770762bd186c83468e",
+      "name": "Extreme Fruits Ultimate",
+      "description": "Extreme Fruits Ultimate îți aduce câștiguri de până la 5000x pe linia de plată și surprise energizante la fiecare spin. Cu 20 de linii de plată și un simbol WILD care se întinde pe toate liniile de joc, Extreme Fruits Ultimate este slotul perfect în orice ocazie.",
+      "nativeGame": true,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5f8584d71d37da679af9d4fe",
+      "gameCode": "zeus",
+      "urlType": "vegas_native_PLAYTECH_REAL",
+      "verticalThumbnailId": "5fbe5232edc417249c90e17f",
+      "gameInfoThumbnailId": "5fbe5269edc417249c90e191",
+      "name": "Age of the Gods™ King of Olympus",
+      "description": "Dezlănțuie furia Regelui din Olimp și câștigă  premii venite de la însuși Zeus! Ai patru jackpoturi divine în valoare de sute de mii de lei care pot ajunge la tine în orice moment al jocului. Ce zici? Te încumeți să intri în jocul zeilor?",
+      "nativeGame": true,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5f8587d21d37da679af9d50c",
+      "gameCode": "bjl",
+      "urlType": "vegas_native_PLAYTECH_REAL",
+      "verticalThumbnailId": "5f900f440762bd186c833ed2",
+      "gameInfoThumbnailId": "5f900f4f0762bd186c833ee4",
+      "name": "LIVE Blackjack",
+      "description": "Poți face față provocării? Joci prudent sau agresiv? HIT sau STOP? Totul se schimbă atunci când ești față în față cu dealerul! Joacă exact ca într-un casino real și bucură-te de pariurile secundare \"PERECHE JUCĂTOR\" și \"21+3\" cu payout de până la 100:1 sau câștigă pe mâna unui alt jucător cu opțiunea \"PARIU DIN SPATE\".",
+      "nativeGame": true,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5fca43ae2340b126caa8ada1",
+      "gameCode": "grbjp",
+      "urlType": "vegas_native_PLAYTECH_REAL",
+      "verticalThumbnailId": "5fca439f2340b126caa8ad8e",
+      "gameInfoThumbnailId": "5fca43a92340b126caa8ada0",
+      "name": "Great Blue Jackpot",
+      "description": "Iubești albastrul mării, vietăție din adâncul oceanului și câștigurile colosale? Great Blue Jackpot este jocul perfect pentru tine. Țestoase seculare, căluți de mare sau rechini fioroși, toți îți aduc premii nebănuite. Doar aici ai premii reale de la peștișorul auriu!",
+      "nativeGame": false,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5f90136c0762bd186c833faa",
+      "gameCode": "hlf",
+      "urlType": "vegas_native_PLAYTECH_REAL",
+      "verticalThumbnailId": "5f90135c0762bd186c833f97",
+      "gameInfoThumbnailId": "5f9013670762bd186c833fa9",
+      "name": "Halloween Fortune",
+      "description": "Trăiește oricând vrei momentele Halloween-ului. Caută premiile vrăjitoarelor printre poțiuni magice, pisici negre corbi și cranii. Găsește simbolul \"BONUS\" de două ori și poți să înveți direct de la vrăjitoare cum se face fiertura norocoasă care îți aduce premii.",
+      "nativeGame": true,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5f8584b61d37da679af9d4fd",
+      "gameCode": "mobro",
+      "urlType": "vegas_native_PLAYTECH_REAL",
+      "name": "Mobile Roulette",
+      "nativeGame": true,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5f8586161d37da679af9d505",
+      "gameCode": "whk",
+      "urlType": "vegas_native_PLAYTECH_REAL",
+      "verticalThumbnailId": "5f8974dc1d37da679af9d52e",
+      "gameInfoThumbnailId": "5f8975591d37da679af9d540",
+      "name": "White King",
+      "description": "Într-o lume fantastică, plină de armonie si pace, White King domnește maiestuos peste regatul său. Intră pe tărâmul acesta de poveste și bucură-te de premii incredibile și aventuri nebănuite. Găsește minimum 3 simboluri WHITE KING SCRATTER bucură-te de secvența Free Spins",
+      "nativeGame": true,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5f90469b0762bd186c834945",
+      "gameCode": "gpas_aogkasgard_pop",
+      "urlType": "vegas_native_GPAS_REAL",
+      "verticalThumbnailId": "5f90468a0762bd186c834932",
+      "gameInfoThumbnailId": "5f9046950762bd186c834944",
+      "name": "Age of the Gods Norse - King of Asgard",
+      "description": "Alătură-te lui Odin și Loki în lupta pentru Asgard, în acest joc de poveste cu 50 de linii de câștig. Puternicul Odin Wild mărește multiplicatorul final de fiecare dată când avansează în timpul funcției de respins. Prinde pictograma cu Loki pentru a-l împinge înapoi pentru mai multe rotiri și iei un multiplicator și mai mare! ",
+      "nativeGame": true,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5fbf959dedc417249c90e302",
+      "gameCode": "rol_turkishrol",
+      "urlType": "vegas_native_LIVE_REAL",
+      "verticalThumbnailId": "5fbfac9bedc417249c90e39a",
+      "gameInfoThumbnailId": "5fbfaca6edc417249c90e3ae",
+      "name": "Turkish Roulette",
+      "description": "Acum ai experiența unui casino real oriunde te-ai afla! Fie că preferi Live Roulette sau Live French Roulette, la mesele noastre te vor aștepta întotdeauna zâmbetele amabile ale dealerilor noștri profesioniști!",
+      "nativeGame": false,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5f8584731d37da679af9d4fb",
+      "gameCode": "bjcb",
+      "urlType": "vegas_native_PLAYTECH_REAL",
+      "name": "Cashback Blackjack",
+      "nativeGame": true,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5f9034990762bd186c83463b",
+      "gameCode": "gpas_squeen_pop",
+      "urlType": "vegas_native_GPAS_REAL",
+      "verticalThumbnailId": "5f90348b0762bd186c834628",
+      "gameInfoThumbnailId": "5f9034940762bd186c83463a",
+      "name": "Sky Queen",
+      "description": "Puterea reginei Sky Queen îți poate aduce câștiguri nemaipomenite! Acest slot cu 5 role te poartă în aventura vechii Americi Centrale, într-un joc plin de simboluri wild și de funcționalității Free Games! Simbolul Soare îți poate aduce câștiguri cash în timpul Respin-urilor Fire Blaze. Mai multe simboluri soare în timpul respin-urilor înseamnă mai multe premii cash sau chiar Marele  Jackpot!",
+      "nativeGame": true,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5f8588161d37da679af9d50e",
+      "gameCode": "bal_sohobaccarat",
+      "urlType": "vegas_native_LIVE_REAL",
+      "verticalThumbnailId": "5f901c890762bd186c834167",
+      "gameInfoThumbnailId": "5f901c910762bd186c834179",
+      "name": "Soho Baccarat",
+      "description": "Baccarat este unul dintre cele mai cunoscute jocuri de casino din întreaga lume, având numeroase opțiuni de pariere cu payout de până la 25:1. Intră la masă și pariază pe una din variantele de joc.",
+      "nativeGame": true,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5f8587ac1d37da679af9d50b",
+      "gameCode": "rol_triumphrol",
+      "urlType": "vegas_native_LIVE_REAL",
+      "verticalThumbnailId": "5f903d0c0762bd186c8347d4",
+      "gameInfoThumbnailId": "5f903d170762bd186c8347e6",
+      "name": "Triumph Roulette",
+      "description": "Acum ai experiența unui casino real oriunde te-ai afla! Fie că preferi Live Roulette sau Live French Roulette, la mesele noastre te vor aștepta întotdeauna zâmbetele amabile ale dealerilor noștri profesioniști!",
+      "nativeGame": true,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5fbf943fedc417249c90e2ff",
+      "gameCode": "abjl_allbetsblackjack2",
+      "urlType": "vegas_native_LIVE_REAL",
+      "verticalThumbnailId": "5fbf9416edc417249c90e2ec",
+      "gameInfoThumbnailId": "5fbf9434edc417249c90e2fe",
+      "name": "Soho All Bets Blackjack",
+      "description": "Un joc de Blackjack cu 8 pachete, cu o masă reală și un dealer real. Masa acceptă un număr nelimitat de jucători care pot alege dintr-o variatate mare de pariuri paralele care se plătesc mai bine. Pune pariul principal, apoi alege-ți din...",
+      "nativeGame": false,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5f8587831d37da679af9d50a",
+      "gameCode": "qrol_quantumautorol",
+      "urlType": "vegas_native_LIVE_REAL",
+      "verticalThumbnailId": "5f902f640762bd186c834531",
+      "gameInfoThumbnailId": "5f902f6f0762bd186c834543",
+      "name": "Quantum Auto Roulette",
+      "description": "Quantum Roulette Live este o masă automată de ruletă Single-Zero cu 37 de sectoare colorate alternativ în roșu și negru, mai puțin Zero, care este verde. Pariurile se pun urmând regulile de ruletă Single Zero, cu diferența că la fiecare rundă, anumite poziții Straight Up (Număr plin) sunt amplificate cu un Multiplicator Quantum care înlocuiește câștigul normal al unui pariu Straight Up (Număr plin). Asta înseamnă că, pariind pe un singur număr, poți câștiga cu până la 500 de ori mai mult.În plus, o funcție nouă face ca, din când în când, anumite evenimente speciale pe masa de joc să crească și mai mult multiplicatoarele de câștig. Totodată opțiunile de pariere sunt acum și mai variante cu pariurile speciale (Pariuri Complete, Pariuri pe Jumătate, Jeu 7/9 sau Orpheline en pleins).",
+      "nativeGame": true,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5f8583ea1d37da679af9d4f7",
+      "gameCode": "bjto",
+      "urlType": "vegas_native_PLAYTECH_REAL",
+      "verticalThumbnailId": "5fb685222440291431ff6d12",
+      "gameInfoThumbnailId": "5fb6852b2440291431ff6d24",
+      "name": "Premium Blackjack",
+      "description": "Crezi că poți \"lovi\" un 21 perfect? Perfect Blackjack este jocul pentru tine! Un joc de masă ideal pentru toți iubitorii de Casino, face un mix excelent între distracție, relaxare și emoții trăite intens.",
+      "nativeGame": true,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5f8589c41d37da679af9d517",
+      "gameCode": "gpas_eemeralds_pop",
+      "urlType": "vegas_native_GPAS_REAL",
+      "verticalThumbnailId": "5fb683232440291431ff6cdc",
+      "gameInfoThumbnailId": "5fb6832f2440291431ff6cee",
+      "name": "Egyptian Emeralds™",
+      "description": "Învârte scarabeii norocoși sau pietrele strălucitoare în acest joc slot cu 10 linii de câștig. Dacă nimerești suficienți scarabei WILD intri în secvența SCARAB RESPNS. Aici este adevărata comoară! Dacă mai prinzi scarabei în secvența specială ți se vor adăuga și mai multe runde gratuite, care îți pot aduce până la de 200 de ori pariul pe linie.",
+      "nativeGame": true,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5f8587611d37da679af9d509",
+      "gameCode": "rofl_triumphrol",
+      "urlType": "vegas_native_LIVE_REAL",
+      "verticalThumbnailId": "5f903d3d0762bd186c8347ef",
+      "gameInfoThumbnailId": "5f903d480762bd186c834801",
+      "name": "LIVE French Roulette",
+      "description": "Acum ai experiența unui casino real oriunde te-ai afla! Fie că preferi Live Roulette sau Live French Roulette, la mesele noastre te vor aștepta întotdeauna zâmbetele amabile ale dealerilor noștri profesioniști!",
+      "nativeGame": true,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5f85840b1d37da679af9d4f8",
+      "gameCode": "bfb",
+      "urlType": "vegas_native_PLAYTECH_REAL",
+      "verticalThumbnailId": "5f900f710762bd186c833eed",
+      "gameInfoThumbnailId": "5f900f7e0762bd186c833eff",
+      "name": "Buffalo Blitz",
+      "description": "Dacă ești în căutarea unui joc cu 4096 de posibilități de câștig la fiecare Spin, sau un joc unde poți câștiga până la 100 de Free spins, oprește-te! L-ai găsit! Intră în fascinanta lume Buffalo Blitz și distrează-te cât vrei la acest joc oricând vrei!",
+      "nativeGame": true,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5fbf95bdedc417249c90e303",
+      "gameCode": "bal_vipbaccarat",
+      "urlType": "vegas_native_LIVE_REAL",
+      "verticalThumbnailId": "5fbfab7eedc417249c90e347",
+      "gameInfoThumbnailId": "5fbfab88edc417249c90e35b",
+      "name": "VIP Baccarat",
+      "description": "Baccarat este unul dintre cele mai cunoscute jocuri de casino din întreaga lume, având numeroase opțiuni de pariere cu payout de până la 25:1. Intră la masă și pariază pe una din variantele de joc.",
+      "nativeGame": false,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5f8585991d37da679af9d501",
+      "gameCode": "hrcls",
+      "urlType": "vegas_native_PLAYTECH_REAL",
+      "verticalThumbnailId": "5f9a845d0762bd186c8353da",
+      "gameInfoThumbnailId": "5f9a84690762bd186c8353ec",
+      "name": "Age of the Gods™ Prince of Olympus",
+      "description": "Luptă alături de Hercule într-o aventura plină de câștiguri surprinzătoare: Prince of Olympus! Ajută-l pe fiul lui Zeus să o răpună pe Hydra iar acesta te va recompensa cu multiplicarea câștigului din Secvența Bonus! Distrează-te alături de puternicul Hercule și câștigă Jackpoturile Progresive puse în joc!",
+      "nativeGame": true,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5f90288b0762bd186c834366",
+      "gameCode": "epa",
+      "urlType": "vegas_native_PLAYTECH_REAL",
+      "verticalThumbnailId": "5f9028770762bd186c834353",
+      "gameInfoThumbnailId": "5f9028870762bd186c834365",
+      "name": "Epic Ape",
+      "description": "Prinde câștigurile epice și aventura fără margini din jungla Epic Ape. Vânează simbolul FREE GAMES și poți câștiga până la 100 Free Spins. Prinde curaj și vino în jungla de premii cu Epic Ape.",
+      "nativeGame": true,
+      "jackpotCarousel": false
+    },
+    {
+      "id": "5fbf9574edc417249c90e301",
+      "gameCode": "rofl_triumphrol",
+      "urlType": "vegas_native_LIVE_REAL",
+      "verticalThumbnailId": "5fbfac63edc417249c90e37f",
+      "gameInfoThumbnailId": "5fbfac7bedc417249c90e391",
+      "name": "Triumph French Roulette",
+      "description": "Acum ai experiența unui casino real oriunde te-ai afla! Fie că preferi Live Roulette sau Live French Roulette, la mesele noastre te vor aștepta întotdeauna zâmbetele amabile ale dealerilor noștri profesioniști!",
+      "nativeGame": false,
+      "jackpotCarousel": false
+    }
+  ],
+  "categories": [
+    {
+      "id": "5fb6815b2440291431ff6cd3",
+      "name": "Jackpoturi",
+      "gameIds": [
+        "5f90469b0762bd186c834945",
+        "5f8585991d37da679af9d501"
+      ]
+    },
+    {
+      "id": "5fb652c22440291431ff6ca5",
+      "name": "EGT"
+    },
+    {
+      "id": "5f857e841d37da679af9d4a0",
+      "name": "Novomatic"
+    },
+    {
+      "id": "5f8583361d37da679af9d4f5",
+      "name": "Synot"
+    },
+    {
+      "id": "5f856e471d37da679af9d2e9",
+      "name": "Apollo"
+    },
+    {
+      "id": "5f85771b1d37da679af9d3d1",
+      "name": "Kajot"
+    },
+    {
+      "id": "5f857a091d37da679af9d443",
+      "name": "NetEnt"
+    },
+    {
+      "id": "5fbcd6b3edc417249c90dfb9",
+      "name": "Playtech",
+      "gameIds": [
+        "5f90357c0762bd186c83468f",
+        "5f90469b0762bd186c834945",
+        "5f8589c41d37da679af9d517",
+        "5f85840b1d37da679af9d4f8",
+        "5f90288b0762bd186c834366",
+        "5f9034990762bd186c83463b",
+        "5f8584d71d37da679af9d4fe",
+        "5f8586161d37da679af9d505",
+        "5f8585991d37da679af9d501",
+        "5f8583ea1d37da679af9d4f7",
+        "5f90136c0762bd186c833faa"
+      ]
+    },
+    {
+      "id": "5f8588581d37da679af9d50f",
+      "name": "LIVE Casino",
+      "gameIds": [
+        "5f8587ac1d37da679af9d50b",
+        "5f8587831d37da679af9d50a",
+        "5fbf9189edc417249c90e2e3",
+        "5fbf943fedc417249c90e2ff",
+        "5f8588161d37da679af9d50e",
+        "5fbf9525edc417249c90e300",
+        "5fbf9574edc417249c90e301",
+        "5fbf959dedc417249c90e302",
+        "5fbf95bdedc417249c90e303"
+      ]
+    },
+    {
+      "id": "5fb680bd2440291431ff6cd2",
+      "name": "Jocuri Noi"
+    },
+    {
+      "id": "5fb680232440291431ff6cd1",
+      "name": "Top Jocuri",
+      "gameIds": [
+        "5f90357c0762bd186c83468f"
+      ]
+    }
+  ]
+}
