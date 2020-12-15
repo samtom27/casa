@@ -34,7 +34,7 @@
   {
     "controlType": "GAME_CATEGORY",
     "name": "Top Jocuri",
-    "categoryId": "5fb680232440291431ff6cd1",
+    "categoryId": "5fbcd6b3edc417249c90dfb9",
     "hasMore": false,
     "content": [
       {
@@ -49,7 +49,7 @@
   {
     "controlType": "GAME_CATEGORY",
     "name": "Jocuri Noi",
-    "categoryId": "5fb680bd2440291431ff6cd2",
+    "categoryId": "5fbcd6b3edc417249c90dfb9",
     "hasMore": false
   },
   {
