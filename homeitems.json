@@ -35,21 +35,12 @@
     "controlType": "GAME_CATEGORY",
     "name": "Top Jocuri",
     "categoryId": "5fbcd6b3edc417249c90dfb9",
-    "hasMore": false,
-    "content": [
-      {
-        "id": "5f90357c0762bd186c83468f",
-        "gameCode": "gpas_extrfruits_pop",
-        "urlType": "vegas_native_GPAS_REAL",
-        "verticalThumbnailId": "5f90356e0762bd186c83467c",
-        "nativeGame": true
-      }
-    ]
+    "hasMore": false
   },
   {
     "controlType": "GAME_CATEGORY",
     "name": "Jocuri Noi",
-    "categoryId": "5fbcd6b3edc417249c90dfb9",
+    "categoryId": "5f8588581d37da679af9d50f",
     "hasMore": false
   },
   {
