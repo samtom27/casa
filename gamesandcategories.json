@@ -19,7 +19,7 @@
       "gameInfoThumbnailId": "5fbfac43edc417249c90e376",
       "name": "Soho Blackjack",
       "description": "Poți face față provocării? Joci prudent sau agresiv? HIT sau STOP? Totul se schimbă atunci când ești față în față cu dealerul! Joacă exact ca într-un casino real și bucură-te de pariurile secundare \"PERECHE JUCĂTOR\" și \"21+3\" cu payout de până la 100:1 sau câștigă pe mâna unui alt jucător cu opțiunea \"PARIU DIN SPATE\".",
-      "nativeGame": false,
+      "nativeGame": true,
       "jackpotCarousel": false
     },
     {
@@ -167,7 +167,7 @@
       "gameInfoThumbnailId": "5fbf9434edc417249c90e2fe",
       "name": "Soho All Bets Blackjack",
       "description": "Un joc de Blackjack cu 8 pachete, cu o masă reală și un dealer real. Masa acceptă un număr nelimitat de jucători care pot alege dintr-o variatate mare de pariuri paralele care se plătesc mai bine. Pune pariul principal, apoi alege-ți din...",
-      "nativeGame": false,
+      "nativeGame": true,
       "jackpotCarousel": false
     },
     {
@@ -292,8 +292,11 @@
       "id": "5f8588581d37da679af9d50f",
       "name": "LIVE Casino",
       "gameIds": [
-        "5f8587ac1d37da679af9d50b",
+        "5f8587611d37da679af9d509",
         "5f8587831d37da679af9d50a",
+        "5f8587ac1d37da679af9d50b",
+        "5fbf9525edc417249c90e300",
+        "5fbf943fedc417249c90e2ff",
         "5f8588161d37da679af9d50e"
       ]
     }
