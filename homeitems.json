@@ -1,37 +1,45 @@
 [
-  {
-    "controlType": "USER_STATUS"
-  },
-  {
-    "controlType": "IMAGE_CAROUSEL",
-    "content": [
-      {
-        "url": "ftnvegascp://categories/5f8588581d37da679af9d50f",
-        "pictureId": "5fce4aaa2340b126caa8b3d5"
-      },
-      {
-        "url": "ftnvegascp://games/5f8587831d37da679af9d50a",
-        "pictureId": "5fce477b2340b126caa8b3c1"
-      },
-      {
-        "url": "ftnvegascp://games/5f8587611d37da679af9d509",
-        "pictureId": "5fce48082340b126caa8b3cb"
-      }
-    ]
-  },
-  {
-    "controlType": "GAME_CATEGORY",
-    "name": "Top Jocuri",
-    "categoryId": "5fbcd6b3edc417249c90dfb9",
-    "hasMore": false
-  },
-  {
-    "controlType": "GAME_CATEGORY",
-    "name": "Jocuri Noi",
-    "categoryId": "5f8588581d37da679af9d50f",
-    "hasMore": false
-  },
-  {
-    "controlType": "FOOTER"
-  }
-]
+    {
+       "controlType":"USER_STATUS"
+    },
+    {
+       "controlType":"IMAGE_CAROUSEL",
+       "content":[
+          {
+             "url":"ftnvegascp://browser?url=https%3A%2F%2Fcasino.casapariurilor.ro%2Fpromotions%2F43725&transferSession=true",
+             "pictureId":"60421943958bf717fdedeaba"
+          },
+          {
+             "url":"ftnvegascp://webview?url=https%3A%2F%2Fm.casapariurilor.ro%2Fnative%2Fnews%2Fbonus-la-cazino-te-distrezi-dublu-cu-cele-mai-tari-jocuri-din-ara%3Fchannel%3Dmobile",
+             "pictureId":"602e223985638c65277afacf"
+          },
+          {
+             "url":"ftnvegascp://categories/5f857e841d37da679af9d4a0",
+             "pictureId":"5fce3b642340b126caa8b36f"
+          },
+          {
+             "url":"ftnvegascp://categories/5f857a091d37da679af9d443",
+             "pictureId":"5fce471a2340b126caa8b3b6"
+          },
+          {
+             "url":"ftnvegascp://categories/5f8588581d37da679af9d50f",
+             "pictureId":"5fce4aaa2340b126caa8b3d5"
+          },
+          {
+             "url":"ftnvegascp://games/5f8587831d37da679af9d50a",
+             "pictureId":"5fce477b2340b126caa8b3c1"
+          },
+          {
+             "url":"ftnvegascp://games/5f8587611d37da679af9d509",
+             "pictureId":"5fce48082340b126caa8b3cb"
+          }
+       ]
+    },
+    {
+       "controlType":"GAME_CATEGORY",
+       "name":"Playtech",
+       "categoryId":"5fb680232440291431ff6cd1",
+       "hasMore":false,
+       "content": []
+    }
+ ]
