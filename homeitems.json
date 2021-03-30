@@ -41,5 +41,8 @@
        "categoryId":"5fbcd6b3edc417249c90dfb9",
        "hasMore":false,
        "content": []
-    }
+    },
+  {
+    "controlType": "FOOTER"
+  }
  ]
