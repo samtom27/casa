@@ -931,21 +931,6 @@
      "new":false
   },
   {
-     "id":"5fb630c32440291431ff6bec",
-     "gameCode":"ashsbd",
-     "urlType":"vegas_native_PLAYTECH_REAL",
-     "verticalThumbnailId":"5fb630b62440291431ff6bd9",
-     "gameInfoThumbnailId":"5fb630bf2440291431ff6beb",
-     "name":"Sindbad's Golden Voyage",
-     "description":"Pornește pe cele 7 mări cu Sinbad marinarul! Un slot cu 6 role și 164 de linii de câștig cu wild-uri care se extind, simboluri înlănțuite și o grafică specială în care poți câștiga free spin-uri dacă înfrunți monstrul din adâncuri, Leviathanul care este wild, stă pe 3 role și aduce câștiguri incredibile.",
-     "nativeGame":true,
-     "gameType":"slots",
-     "jackpotCarousel":false,
-     "hot":false,
-     "popular":false,
-     "new":false
-  },
-  {
      "id":"5f901dcf0762bd186c8341e9",
      "gameCode":"ashtkp2",
      "urlType":"vegas_native_PLAYTECH_REAL",
@@ -1032,21 +1017,6 @@
      "jackpotCarousel":false,
      "hot":false,
      "popular":false,
-     "new":false
-  },
-  {
-     "id":"5f90488b0762bd186c83499d",
-     "gameCode":"bob",
-     "urlType":"vegas_native_PLAYTECH_REAL",
-     "verticalThumbnailId":"5f90487c0762bd186c83498a",
-     "gameInfoThumbnailId":"5f9048850762bd186c83499c",
-     "name":"Bonus Bears",
-     "description":"Ia-ți partea ta de miere cu Bonus Bears! Joacă acum și ai parte de un picnic complet de funcții câștigătoare. Unde mai pui și faptul că, în rundele bonus, câștigurile sunt triple! Declanșează funția HONEY dulce ca mierea, și ajută ursul să-și ia cina și să te facă câștigător!",
-     "nativeGame":true,
-     "gameType":"slots",
-     "jackpotCarousel":false,
-     "hot":false,
-     "popular":true,
      "new":false
   },
   {
@@ -1649,21 +1619,6 @@
      "new":false
   },
   {
-     "id":"5fca36542340b126caa8ac0c",
-     "gameCode":"phtd",
-     "urlType":"vegas_native_PLAYTECH_REAL",
-     "verticalThumbnailId":"5fca36442340b126caa8abf9",
-     "gameInfoThumbnailId":"5fca364e2340b126caa8ac0b",
-     "name":"Pharaoh’s Treasure Deluxe",
-     "description":"Ești pregătit să te aventurezi în lumea Egiptului Antic? Strecoară-te în mormântul lui Tutankamon și fură Jackpot-ul Progresiv! Găsește comoara pierdută a marelui faraon! Mărește-ți câștigurile cu opțiunea \"MARE PARIOR\". Alegerea Secvenței Bonus este acum în mainile tale! Ai două posibilități: \"Tomb of Tutankhamun Bonus\" sau \"Curse of the Ancients Free Games\". Ce o să alegi?",
-     "nativeGame":true,
-     "gameType":"slots",
-     "jackpotCarousel":false,
-     "hot":false,
-     "popular":false,
-     "new":false
-  },
-  {
      "id":"5f902de70762bd186c8344d4",
      "gameCode":"pisa",
      "urlType":"vegas_native_PLAYTECH_REAL",
@@ -2061,14 +2016,12 @@
         "5fb689602440291431ff6e53",
         "5f9010dd0762bd186c833f55",
         "5f9014320762bd186c833fe2",
-        "5fb630c32440291431ff6bec",
         "5f901dcf0762bd186c8341e9",
         "5f9036130762bd186c8346c7",
         "5f85840b1d37da679af9d4f8",
         "5f9011aa0762bd186c833f72",
         "5f8584731d37da679af9d4fb",
         "5f8583ea1d37da679af9d4f7",
-        "5f90488b0762bd186c83499d",
         "5f902ac00762bd186c83440e",
         "5f902d530762bd186c8344b7",
         "5fca3b122340b126caa8acea",
@@ -2109,7 +2062,6 @@
         "5f90191f0762bd186c83409a",
         "5f9018600762bd186c834062",
         "5f90198f0762bd186c8340b6",
-        "5fca36542340b126caa8ac0c",
         "5f902de70762bd186c8344d4",
         "5f90475b0762bd186c834962",
         "5f8583b11d37da679af9d4f6",
